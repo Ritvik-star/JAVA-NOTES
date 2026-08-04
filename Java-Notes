@@ -14,4 +14,27 @@ class -
     to create class we use 'class' keyword.
 
 
+public class OOPs {
+    public static void main(String[] args) {
+
+    }
+
+    //data variables
+    int num;
+    string str;
+
+
+    //data member
+    //by using which we can access data members of class
+    //and to use them we need to have an object of this class
+    int getter(){
+        return this.num;
+    }
+
+    void setter(int n, string s){
+        this.num = n;
+        this.str = s;
+    }
+}
+
 
