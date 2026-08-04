@@ -1,0 +1,17 @@
+OOP -   (object oriented programming)
+In this, programming revoles around object and classes
+object -
+ are real world entities which will have both behaviour(functionality) and properties
+for exmaple -
+    car
+        behaviour/functionality - driving, breaking, egnition
+        properties - color, brand, fuel type
+
+
+class -
+    blueprint or templates of objects, object can be created by classes only.
+    from one class we can create multiple objects.
+    to create class we use 'class' keyword.
+
+
+
