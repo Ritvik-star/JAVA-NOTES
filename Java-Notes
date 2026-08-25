@@ -38,3 +38,14 @@ public class OOPs {
 }
 
 
+OOPs concept -
+1. Data abstraction - in this we hide the unneccessary data from end user (can be achieved by interface and abstract classes)
+2. Data encapsulation - it bundles all the code and methods which works on that code in single unit or class, it also known as data hiding.
+                        -achieved by private variables and methods in class and by providing getter/setter methods to access.
+3. Inheritance - in this we can inherite the behaviour or functionality from parent to child class, it can be done by using EXTREND keyword.
+4. 
+
+
+
+
+
