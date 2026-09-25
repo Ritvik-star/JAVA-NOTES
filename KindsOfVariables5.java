@@ -1,4 +1,4 @@
-public class KindsOfVariables {
+public class KindsOfVariables5 {
 
     int memberVariable;     //member variable
     //it can be accessed by object of its class
@@ -9,13 +9,13 @@ public class KindsOfVariables {
 
 
     //this is default constructor
-    KindsOfVariables(){
+    KindsOfVariables5(){
 
     }
 
 
     //parameterzied constructor
-    KindsOfVariables(int a){
+    KindsOfVariables5(int a){
         this.memberVariable = a;
     }
 
@@ -33,15 +33,15 @@ public class KindsOfVariables {
 
 
     public static void main(String[] args) {
-        KindsOfVariables obj1 = KindsOfVariables();
-        KindsOfVariables obj2 = KindsOfVariables();
-        KindsOfVariables obj3 = KindsOfVariables(111);  //it will call parameterized constructor
+        KindsOfVariables5 obj1 = KindsOfVariables();
+        KindsOfVariables5 obj2 = KindsOfVariables();
+        KindsOfVariables5 obj3 = KindsOfVariables(111);  //it will call parameterized constructor
 
         //as many object we can create of one class
 
 
         //to access static member
-        System.out.println(KindsOfVariables.staticVariable);
+        System.out.println(KindsOfVariables5.staticVariable);
 
         //to access non-static member
         System.out.println(obj1.memberVariable);

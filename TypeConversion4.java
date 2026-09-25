@@ -1,4 +1,4 @@
-public class TypeConversion {
+public class TypeConversion4 {
     public static void main(String[] args) {
 
     }

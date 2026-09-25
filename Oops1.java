@@ -1,4 +1,4 @@
-public class Oops {
+public class Oops1 {
     public static void main(String[] args) {
 
     }
@@ -44,10 +44,10 @@ public class Oops {
 //
 //
 //* OOPs concept -
-//            1. DATA ABSTRACTION - in this we hide the unneccessary data from end user (can be achieved by interface and abstract classes)
-//2. DATA ENCAPSULATION - it bundles all the code and methods which works on that code in single unit or class, it also known as data hiding.
+// 1. DATA ABSTRACTION - in this we hide the unneccessary data from end user (can be achieved by interface and abstract classes)
+// 2. DATA ENCAPSULATION - it bundles all the code and methods which works on that code in single unit or class, it also known as data hiding.
 //            -achieved by private variables and methods in class and by providing getter/setter methods to access.
-//            3. INHERITANCE - in this we can inherite the behaviour or functionality from parent to child class,
+// 3. INHERITANCE - in this we can inherite the behaviour or functionality from parent to child class,
 //    it can be done by using EXTREND keyword.
 //
 //            -there are 4 types of inheritance
@@ -111,7 +111,7 @@ public class Oops {
 //
 //            --> we can achive POLYMORPHISUM by inheritance.
 //
-//            4. POLYMORPHISUM :-     it means, we can have same method with different different behaviour or forms.
+// 4. POLYMORPHISUM :-     it means, we can have same method with different different behaviour or forms.
 //            ...e.g..
 //    person()    -> son, husband, brother, father etc..
 //
@@ -238,5 +238,4 @@ public class Oops {
 //    //now 1 student can have one java course also;
 //    //1 student can have many courses (java, python...) also.
 //    //many students can have many courses.....also.
-
 }

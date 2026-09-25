@@ -1,4 +1,4 @@
-public class AggregationComposition {
+public class AggregationComposition2 {
     public static void main(String[] args) {
 
     }
