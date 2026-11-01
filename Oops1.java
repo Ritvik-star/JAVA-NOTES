@@ -46,7 +46,7 @@ public class Oops1 {
 //* OOPs concept -
 // 1. DATA ABSTRACTION - in this we hide the unneccessary data from end user (can be achieved by interface and abstract classes)
 // 2. DATA ENCAPSULATION - it bundles all the code and methods which works on that code in single unit or class, it also known as data hiding.
-//            -achieved by private variables and methods in class and by providing getter/setter methods to access.
+//                        -achieved by private variables and methods in class and by providing getter/setter methods to access.
 // 3. INHERITANCE - in this we can inherite the behaviour or functionality from parent to child class,
 //    it can be done by using EXTREND keyword.
 //
@@ -99,7 +99,7 @@ public class Oops1 {
 //        }
 //
 //        class C extend A, B {}
-//        this.get()  //here compiler might get stuck like which methods needs to call exactly.
+//        this.get()  //here compiler might get stuck like which methods in which class needs to call exactly.
 //    }
 //
 //                    -->using INTERFACE (by using "IMPLEMENTS")-
@@ -164,6 +164,7 @@ public class Oops1 {
 //        }
 //
 //        class B extend A{
+//            @Override     -->not manadatory
 //            Boolean isChecked(String name){
 //                if (name == "R"){
 //                    return false;   //here, we have override its implementation                                                                      }

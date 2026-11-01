@@ -10,7 +10,8 @@ public class KindsOfVariables5 {
 
     //this is default constructor
     KindsOfVariables5(){
-
+    //it will just assign null to all variables if not initialized
+        //memberVariable = null;    //internally
     }
 
 

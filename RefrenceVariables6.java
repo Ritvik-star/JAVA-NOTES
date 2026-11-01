@@ -59,10 +59,12 @@ public class RefrenceVariables6 {
 
                //which means by using the reference only we can change the value,
                //which is why it is reference data type.
+
+            //In Java, we do not have pass by reference but we have only pass by value.
+
             //But in java, we can achieve pass by reference using reference data types
 
 
-            //In Java, we do not have pass by reference but we have only pass by value.
 
 
      2. STRING -

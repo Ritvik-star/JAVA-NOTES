@@ -14,7 +14,7 @@ public class AggregationComposition2 {
 //    will not end another object...e.g....
 //
 //    class School {},                class Student{}
-//    //if I end this object            //then it will affect students, they will enroll somewhere else
+//    //if I end this object            //then it will not affect students, they will enroll somewhere else
 //
 //
 //    COMPOSITION -
@@ -22,13 +22,13 @@ public class AggregationComposition2 {
 //                    ....e.g......
 //    class School{},
 //
-//    class Rooms{},
+//    class ClassRooms{},
 //
 //            //now if I destroy rooms then it will also destroy the school.
 //
 //
 //
-//            * JDK - Java development kit (it will have JRE + JVM + language details, debugger, compiler(JavaC))
+//* JDK - Java development kit (it will have JRE + JVM + language details, debugger, compiler(JavaC))
 //            -it is plateform dependent (we have to install it, then only java bytecode will execute)
 //
 //*JRE - Java run-time environment (JVM + all built-in class libraries like Arrays, Maths, Scanner etc.)
@@ -57,7 +57,7 @@ public class AggregationComposition2 {
 //                * Why java code/file should have only 1 public class ??
 //
 //        -JVM calls the main(), which is a entry point of java code to execute.
-//                -java file name should same as its public class ...e.g...Student.java (file), public class Student {}
+//        -java file name should same as its public class ...e.g...Student.java (file), public class Student {}
 //        -so that it can easily identify and accessed by JVM and main()
 //                -main() also should public and static so that can be accessed without any object
 //

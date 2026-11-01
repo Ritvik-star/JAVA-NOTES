@@ -4,12 +4,11 @@ public class AbstractMethod12 {
 
         //uses 'abstract' keyword in declaration, means
         //there will be only declaration or signature, no implementation in same abstract class
-
+`
             //impletementation should be done by its child class,
 
     //.e.g....
             public abstract class Parent{
-
 
                 public abstract void show(); //only declaration
             }

@@ -57,7 +57,7 @@ public class Methods9 {
     *
     *       3. PROTECED -
     *                       it can be access in same class and in other class with same package.
-    *                       and other sub/child class in different (not directly in parent)
+    *                       and other sub/child class in different packge(not directly in parent)
     *
     *           ---> package one
     *               public class One {

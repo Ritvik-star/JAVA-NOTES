@@ -22,7 +22,7 @@ public class StaticMethods10 {
     *                           Parent obj1 = new Parent();
     *                           Parent obj2 = new Parent();
     *
-    *                               //now if want to call showParentName() then we dont which object to select
+    *                               //now if want to call showParentName() then we dont know which object to select
     *                                   //because its common for both objects
     *
     *
